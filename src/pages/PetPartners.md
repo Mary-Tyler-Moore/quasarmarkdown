@@ -73,7 +73,7 @@ quasar dev
 quasar build -m spa
 ```
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="1000" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="100%" />
 
 <br />
 
