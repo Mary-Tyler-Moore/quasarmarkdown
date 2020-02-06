@@ -8,7 +8,8 @@
  
 ##   A Quasar SPA deployed to Netlify :sparkles:
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/43F53DF6-1F8A-452A-8B8D-19089CB2911A.jpeg?raw=true" width="600px" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="100%" />
+
 <br />
 
 ## Motivation: :running: :dash:
@@ -46,8 +47,8 @@ The mission of :heart_eyes_cat: ***Pet Partners*** :smile_cat: is to brighten :r
 
 <br />
 
-## :construction: Step 1 :construction: - Clone :dancers: this Repository
-
+## Step 1 - Clone this Repository
+> :contruction: - Clone :dancer: this Repository
 > Clone this Repository
 
 ```sh
@@ -56,13 +57,13 @@ git clone https://github.com/Mary-Tyler-Moore/pet-partners.git
 cd pet-partners
 ```
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="1000" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="100%" />
 
 <br />
 
-## :construction: Step 2 :construction: - Install :cd: and Build :hammer:
+## Step 2  - Install and Build for Production
 
-> Install project dependencies and build for production.
+> :construction: -  Install :cd: project dependencies and build :hammer: for production - :construction: 
 
 ```sh
 npm install
@@ -76,15 +77,15 @@ quasar build -m spa
 
 <br />
 
-## :construction: Step 3 :construction: - Push :raised*hands: Build Folder :open_file_folder: \*\*\_dist/spa*\*\*
-
+## Step 3 - Push Build Folder  ***dist/spa****
+> :construction: - Push :raised_hands: Build Folder :open_file_folder: ***dist/spa***
 > Open VS Code. Navigate to Source Control. Give the commit a memorable message, something that will clearly communicate to your coworkers the exact purpose of this commit.
 >
 > For this example I gracefully wrote the message: "baby-yoday" :joy_cat:.
 
 <br />
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="100%" />
 
 <br />
 
@@ -94,7 +95,7 @@ quasar build -m spa
 
 ## :construction: Step 4 :construction: - Deploy to Netlify :sparkles:
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="1000" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="100%" />
 
 <br />
 
@@ -116,7 +117,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # Quasar Framework
 
-![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
+<img src="https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg" width="100%" />
 
 > Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
 
@@ -168,11 +169,11 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <br />
 
-## Baby Yoda Power :green_heart:
+## Baby Yoda Power
 
-We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
+We have Baby Yoda :green_heart: working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" width="1000px" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" width="100%" />
 
 <br/>
 
@@ -180,7 +181,7 @@ We have Baby Yoda working with us. In exchange for his help I will be creating a
 
 Please :pray: help me find a remote :satellite: job as a JS Dev. I'm really "applying" myself.
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/job-hunt.jpg?raw=true" width="1000px" />
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/job-hunt.jpg?raw=true" width="100%" />
 
 <br />
 
