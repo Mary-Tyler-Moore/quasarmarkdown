@@ -51,6 +51,18 @@
             <q-item-label>Demo</q-item-label>
           </q-item-section>
         </q-item>
+        <q-item
+          clickable
+          to="/pet-partners"
+          exact
+        >
+          <q-item-section avatar>
+            <q-icon name="pets" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Pet Partners</q-item-label>
+          </q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 
